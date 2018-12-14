@@ -1,7 +1,7 @@
 {
   "name": "kickstart",
   "engines": {
-    "node": ">=50.9"
+    "node": "6.11.1"
   },
   "version": "1.0.0",
   "description": "",
