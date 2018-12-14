@@ -1,5 +1,8 @@
 {
   "name": "kickstart",
+  "engines": {
+    "node": ">=50.9"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
